@@ -1,0 +1,19 @@
+{
+  "Users": [
+    {
+      "id": "be88",
+      "pid": "5",
+      "productcate": "Beverages",
+      "productname": "Mazaa",
+      "quantity": "80 Bottles",
+      "price": "25",
+      "dateandtime": "2024-03-08T21:46"
+    }
+  ],
+  "Admin":{
+    "email":"admin@gmail.com",
+    "pass":"admin@123"
+  }
+
+  
+}
